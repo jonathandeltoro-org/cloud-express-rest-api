@@ -1,0 +1,26 @@
+{
+  "name": "cloud-express-rest-api",
+  "version": "1.0.0",
+  "description": "cloud express rest api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondeltoro/cloud-express-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jondeltoro/cloud-express-rest-api/issues"
+  },
+  "homepage": "https://github.com/jondeltoro/cloud-express-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongose": "0.0.2-security"
+  }
+}
