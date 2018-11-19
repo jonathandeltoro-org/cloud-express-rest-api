@@ -4,11 +4,11 @@ const mongoConnections = {
     'db': 'heroku_fvd3x38k'
   },
   'zone2': {
-    'url': 'mongodb://owner:owner123@@ds151207.mlab.com:51207/heroku_hn6849br',
+    'url': 'mongodb://owner:owner123@ds151207.mlab.com:51207/heroku_hn6849br',
     'db': 'heroku_hn6849br'
   },
   'zone3': {
-    'url': 'mongodb://owner:owner123@@ds129394.mlab.com:29394/heroku_vgwdng4t',
+    'url': 'mongodb://owner:owner123@ds129394.mlab.com:29394/heroku_vgwdng4t',
     'db': 'heroku_vgwdng4t'
   }
 };
