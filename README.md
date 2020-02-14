@@ -22,7 +22,7 @@ Content-Type: application/json
 Cache-Control: no-cache
 ```
 
-Respose:
+Response:
 ```[
     {
         "_id": "5e45f4ffc36bb9001684bafc",
